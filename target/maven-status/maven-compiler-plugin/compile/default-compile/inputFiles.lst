@@ -1,0 +1,5 @@
+/opt/syonet/projeto/imobiliaria/src/main/java/br/com/syonet/imobiliaria/App.java
+/opt/syonet/projeto/imobiliaria/src/main/java/br/com/syonet/imobiliaria/repository/Condominio.java
+/opt/syonet/projeto/imobiliaria/src/main/java/br/com/syonet/imobiliaria/dao/condominio/CondominioDAOImpl.java
+/opt/syonet/projeto/imobiliaria/src/main/java/br/com/syonet/imobiliaria/service/EntityManagerProvider.java
+/opt/syonet/projeto/imobiliaria/src/main/java/br/com/syonet/imobiliaria/repository/Imovel.java

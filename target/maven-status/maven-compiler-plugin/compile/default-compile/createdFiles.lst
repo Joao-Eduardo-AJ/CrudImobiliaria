@@ -1,0 +1,5 @@
+br/com/syonet/imobiliaria/dao/condominio/CondominioDAOImpl.class
+br/com/syonet/imobiliaria/repository/Imovel.class
+br/com/syonet/imobiliaria/service/EntityManagerProvider.class
+br/com/syonet/imobiliaria/repository/Condominio.class
+br/com/syonet/imobiliaria/App.class
